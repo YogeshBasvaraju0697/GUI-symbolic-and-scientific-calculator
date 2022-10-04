@@ -1,0 +1,3 @@
+([('GUI',
+   '/Users/yogeshbasavaraju/Desktop/pythonProject/7SENG013W_Yogesh_Basavraju_w1853885/dist/GUI',
+   'EXECUTABLE')],)
